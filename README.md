@@ -23,22 +23,6 @@ HoroscApp se organiza en tres secciones principales, accesibles desde una barra 
  
 El proyecto sigue una **arquitectura MVVM** combinada con principios de **Clean Architecture**, separando responsabilidades en capas:
  
-```
-┌──────────────────────────────────────────────┐
-│                     UI                       │
-│  Activities · Fragments · Adapters · ViewModel│
-└──────────────────────┬───────────────────────┘
-                       │ observa StateFlow
-┌──────────────────────▼───────────────────────┐
-│                   DOMAIN                     │
-│        Casos de uso · Modelos · Interfaces   │
-└──────────────────────┬───────────────────────┘
-                       │
-┌──────────────────────▼───────────────────────┐
-│                    DATA                      │
-│  Repository · Retrofit · Interceptors · Mappers│
-└──────────────────────────────────────────────┘
-```
  
 ### Capas
  

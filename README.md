@@ -133,11 +133,9 @@ Este repositorio acompaña el curso *Android Master Intermedio*, cuyo temario in
 ---
  
 ## 👤 Autor
+
+Es parte del curso de @AristiDev.
  
 **chekelon** — [github.com/chekelon](https://github.com/chekelon)
  
----
- 
-## 📄 Licencia
- 
-Proyecto con fines educativos. Agrega aquí la licencia que prefieras (por ejemplo, MIT).
+

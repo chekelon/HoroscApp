@@ -77,7 +77,7 @@ HoroscApp/
 └── gradle.properties
 ```
  
-> ℹ️ Ajusta los nombres de paquetes y carpetas a la estructura real del proyecto.
+
  
 ---
  
